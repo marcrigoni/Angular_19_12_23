@@ -507,14 +507,20 @@ yarn-error.log
 .history/*
 
 # Miscellaneous
-/.angular/cache
+/.angular/cache/
 .sass-cache/
 /connect.lock
 /coverage
 /libpeerconnection.log
 testem.log
 /typings
+Front/ProEventos-App/.angular/
 
 # System files
 .DS_Store
 Thumbs.db
+
+#arquivos banco de dados
+*.db
+*.db-shm
+*.db-wal
